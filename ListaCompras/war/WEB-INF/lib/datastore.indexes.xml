@@ -1,0 +1,4 @@
+<datastore-index kind="ItemCompra" ancestor="false" source="manual">
+        <property name="comprado" direction="asc"/>
+        <property name="quantidade" direction="desc"/>
+    </datastore-index>
